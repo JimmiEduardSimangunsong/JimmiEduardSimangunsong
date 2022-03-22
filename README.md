@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![profil](https://user-images.githubusercontent.com/77309417/159502250-8e823944-a0eb-4912-96ba-10356d041754.png)
+
 
 i'm computer science student at USU, I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future). It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Java because they challenge me more. I love it when I can finally solve a difficult problem.
 
